@@ -9,3 +9,12 @@ Archea will help acquire privacy/security-aware co/bio-sensing data during the f
 In the second interview, this VR scenario will be animated to the client to verify the most crucial root causes of the mental disorder by applying co/bio-sensing in the meantime. By doing so, we will have a mostly-verified assistive interpretation of the main causes of the mental disorder.
 
 ![image](https://github.com/PatikaPsikoloji/Archaea/assets/24838569/0e75a490-bf62-42e7-9482-71c6bbc435eb)
+
+This repository includes: 
+1- Agent-based data acquisition utilities which are based on IoFog (https://iofog.org/)
+2- A sample unity project that applies basic VR-based exposing in a 3d environment strengthened with AI-based image generation (STABLE DIFFUSION XL, https://clipdrop.co/apis)
+
+PS: We are planning to improve this Github repository with the following tools if we get funded:
+- Co-sensing Interview and Bio-sensing Data Acquisition (with an ontology and semantic backend to be realised with Virtuoso, Kafka, IoFog)
+- Explainable AI services
+- Cryptography and authentication service (KeyCloak https://github.com/keycloak/keycloak + Sun PKCS11 library: https://github.com/openjdk/jdk/blob/master/src/jdk.crypto.cryptoki/share/classes/sun/security/pkcs11/wrapper/PKCS11.java)
