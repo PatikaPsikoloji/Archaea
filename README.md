@@ -1,5 +1,7 @@
 # Archaea
 Project Name: ARCHAEA - Mental Health Resilience Augmentation of Workforce by AI and VR-powered Co-/Bio-Sensing
+
+
 Archaea project focuses on the specific challenge of the disconnection between the selection of the right psycho-therapeutic strategy and the root cause of the symptoms. Employees with mental problems usually reflect the invisible root causes (e.g. maladaptive primary emotions) to visible/obvious and solidified symptoms or symbols (e.g., impulsiveness, anxiety). The main goal of Archaea is to improve the workforce by identifying the right causes of mental disorders and accelerating work engagement.  
 ![image](https://github.com/PatikaPsikoloji/Archaea/assets/24838569/65cf0b77-83cc-4210-a478-38957fe776f7)
 
